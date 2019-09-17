@@ -1,0 +1,5 @@
+# packages files
+/node_modules
+
+# webpack output result
+/dist
