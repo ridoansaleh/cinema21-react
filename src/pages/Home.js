@@ -1,8 +1,5 @@
 import React, { Component } from 'react';
-// import { Link } from 'react-router-dom';
-// import axios from 'axios';
-// import { Navbar } from '../components/Navbar';
-// import { API_BASE_URL } from '../constant';
+import logo21 from '../assets/21_Cineplex_logo.png';
 
 class Home extends Component {
   constructor() {
@@ -12,7 +9,12 @@ class Home extends Component {
   }
 
   render() {
-    return <div>Home</div>;
+    return (
+      <div>
+        <h1>Home</h1>
+        <img src={logo21} alt="21's Logo"></img>
+      </div>
+    );
   }
 }
 
