@@ -6,7 +6,10 @@ Kegunaan dari projek ini adalah untuk belajar pembuatan website menggunakan tool
 
 ## TODO LIST
 
-[x] add react-apollo
-[x] add image loader for webpack
-[ ] structure html of home route (header, footer, sidebar and home content) and add css
-[ ] others
+- [x] add react-apollo
+
+- [x] add image loader for webpack
+
+- [ ] structure html of home route (header, footer, sidebar and home content) and add css
+
+- [ ] others
