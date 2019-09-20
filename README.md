@@ -1,8 +1,6 @@
 # Cinema21 React
 
-Cinema21 React adalah kloning dari website cinema21 yang dibuat ulang menggunakan library React.Js dan React Apollo.
-
-Kegunaan dari projek ini adalah untuk belajar pembuatan website menggunakan tools (teknologi) yang disebutkan di atas.
+Cinema21 React is a cloning website of [cinema21](https://www.21cineplex.com/) which is build using React.Js and React Apollo. This project is useful for learning purpose of how to build website with those tools mentioned before.
 
 ## TODO LIST
 

@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import { ApolloProvider } from '@apollo/react-hooks';
 import { BrowserRouter, Route } from 'react-router-dom';
-import Home from './pages/Home';
+import Home from './pages/home';
 import Book from './pages/Book';
 import client from './apollo';
 import './css/App.css';
