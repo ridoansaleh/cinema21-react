@@ -1,20 +1,15 @@
 import React, { Fragment } from 'react';
 import Navbar from '../../components/Navbar';
-import City from './City';
-import Announcement from './Announcement';
-import Movies from './Movies';
 import Footer from '../../components/Footer';
 
-const Home = () => {
+const Theater = () => {
   return (
     <Fragment>
       <Navbar />
-      <City />
-      <Announcement />
-      <Movies />
+      <h1>Theater</h1>
       <Footer />
     </Fragment>
   );
 };
 
-export default Home;
+export default Theater;

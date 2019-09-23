@@ -8,6 +8,16 @@ Cinema21 React is a cloning website of [cinema21](https://www.21cineplex.com/) w
 
 - [x] add image loader for webpack
 
-- [ ] structure html of home route (header, footer, sidebar and home content) and add css
+- [x] layouting header & sidebar
+
+- [x] layouting footer
+
+- [x] create main pages
+
+- [ ] create city input changes (home)
+
+- [ ] create announcement content (home)
+
+- [ ] create movies list content (home)
 
 - [ ] others
