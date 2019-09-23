@@ -28,15 +28,17 @@ const Navbar = () => {
   return (
     <Fragment>
       <div className="navbar-container">
-        <div className="navbar-hamburger">
-          <div className="hamburger-toggle-icon" onClick={handleHamburgerClick}>
-            <div className="icon-bar"></div>
-            <div className="icon-bar"></div>
-            <div className="icon-bar"></div>
+        <div className="navbar-wrapper">
+          <div className="navbar-hamburger">
+            <div className="hamburger-toggle-icon" onClick={handleHamburgerClick}>
+              <div className="icon-bar"></div>
+              <div className="icon-bar"></div>
+              <div className="icon-bar"></div>
+            </div>
           </div>
-        </div>
-        <div className="navbar-logo-wrapper">
-          <img id="header-logo" src={companyLogo} alt="Cinema21's logo" />
+          <div className="navbar-logo-wrapper">
+            <img id="header-logo" src={companyLogo} alt="Cinema21's logo" />
+          </div>
         </div>
       </div>
       <Sidebar />
